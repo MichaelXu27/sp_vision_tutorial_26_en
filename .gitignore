@@ -6,3 +6,5 @@ lecture3/*/main
 lecture3/*/answer
 lecture3/homework/build
 lecture3/homework/logs
+# build output
+build/
