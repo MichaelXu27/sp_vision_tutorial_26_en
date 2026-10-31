@@ -9,7 +9,7 @@ This is a plain-English translation of
 Lecture 1: Hello Ubuntu & git  
 Lecture 2: Hello C++  
 Lecture 3: Hello OOP  
-Lecture 4: Hello Armor  
+Lecture 4: Hello Armor ([homework directions](lecture4/homework/README.md))  
 Lecture 5: Hello Kalman  
 
 All future lecture videos will be posted (in Chinese) on the team's official Bilibili account: [TJ-SuperPower team](https://space.bilibili.com/651837546)
